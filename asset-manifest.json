@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Tsukaden/react-profile/static/css/main.0f01db3a.css",
+    "main.js": "/Tsukaden/react-profile/static/js/main.ddb14804.js",
+    "static/js/787.128fc6e9.chunk.js": "/Tsukaden/react-profile/static/js/787.128fc6e9.chunk.js",
+    "index.html": "/Tsukaden/react-profile/index.html",
+    "main.0f01db3a.css.map": "/Tsukaden/react-profile/static/css/main.0f01db3a.css.map",
+    "main.ddb14804.js.map": "/Tsukaden/react-profile/static/js/main.ddb14804.js.map",
+    "787.128fc6e9.chunk.js.map": "/Tsukaden/react-profile/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f01db3a.css",
+    "static/js/main.ddb14804.js"
+  ]
+}
